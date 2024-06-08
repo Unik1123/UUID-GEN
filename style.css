@@ -1,3 +1,10 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+
+
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -39,4 +46,16 @@ p {
    font-weight: bold;
 
 
+}
+footer {
+    margin-top: auto;
+    padding: 10px 0;
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    font-weight:bold;
+    
 }
